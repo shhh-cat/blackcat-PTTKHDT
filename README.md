@@ -3,6 +3,7 @@
 Version open source
 
 Demo: http://blackcat.host/
+Admin page: http://blackcat.host/admin
 
 <h1>Content Manager Account:</h1>
 
